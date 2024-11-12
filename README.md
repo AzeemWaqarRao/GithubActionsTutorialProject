@@ -73,7 +73,6 @@ To build and run the Docker container locally:
   docker run -p 5000:5000 flask-app
   ```
 
-
 ## Contributing
  - Fork the project.
  - Create a feature branch (`git checkout -b feature/AmazingFeature`).
